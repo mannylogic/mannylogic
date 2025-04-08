@@ -39,23 +39,6 @@ I'm currently working on:
 
 ---
 
-## 📁 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔐 [IAM Anomaly Detection Automation](./iam-anomaly-response) | Uses AWS GuardDuty + Lambda to detect and respond to suspicious IAM activity |
-| 🔍 Splunk Threat Hunting *(Coming soon)* | Custom queries and dashboards for insider threat detection |
-| ☁️ Cloud Security Lab *(In Progress)* | Simulating misconfigurations and responses across AWS services |
-
----
-
-## 🤝 Connect With Me
-
-<a href="https://linkedin.com/in/orjiemmanuelchijindu" target="blank">
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orjiemmanuelchijindu" height="30" width="40" />
-</a>  
-Let's collaborate, connect, or chat about all things cyber!
-
 ## 📂 Projects
 
 ### 1️⃣ **AWS IAM detection & Automation**
