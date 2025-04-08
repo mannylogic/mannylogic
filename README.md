@@ -53,8 +53,7 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 - **OSINT Techniques** for cyber investigations
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [Follow on LinkedIn](www.linkedin.com/in/
-orjiemmanuelchijindu)
+- **LinkedIn:** [Follow on LinkedIn](www.linkedin.com/in/orjiemmanuelchijindu)
 
 
 👨‍💻 Always open to discussions on cybersecurity, threat hunting, and automation!
