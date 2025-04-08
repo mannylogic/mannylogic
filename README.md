@@ -18,18 +18,6 @@ I'm a **Security Operations Center (SOC) Analyst** with a background in **System
 
 ---
 
-## 📚 Education & Skills
-
-- 🎓 MSc in Cybersecurity  
-- 🧠 Strong foundation in network security, digital forensics, and security operations  
-- 🛠️ Tools & Platforms:
-  - SIEM: **Splunk, ELK, Microsoft Sentinel**
-  - EDR/IDS: **CrowdStrike, Suricata**
-  - Cloud: **AWS (GuardDuty, Lambda, IAM), Azure**
-  - Security Frameworks: **MITRE ATT&CK, CIS Controls**
-
----
-
 ## 🚀 Current Focus
 
 I'm currently working on:
@@ -59,10 +47,16 @@ I'm currently working on:
 - **Scripting & Automation**: Python, PowerShell, Bash
 - **Network Security**: Wireshark, Suricata, Zeek
 
-## 📚 Learning & Certifications
-🎓 **Education & Certifications:** 
-- **MSc in Cybersecurity**
-- **CompTIA Security+**, **Azure Security Operations Analyst (Sc-200)**, **AWS Security Specialty** (working towards **CySA+**)
+## 📚 Learning, Skills & Certs
+
+- 🎓 MSc in Cybersecurity  
+- 🧠 Strong foundation in network security, digital forensics, and security operations  
+- 🛠️ Tools & Platforms:
+  - SIEM: **Splunk, ELK, Microsoft Sentinel**
+  - EDR/IDS: **CrowdStrike, Suricata**
+  - Cloud: **AWS (GuardDuty, Lambda, IAM), Azure**
+  - Security Frameworks: **MITRE ATT&CK, CIS Controls**
+  - **CompTIA Security+**, **Azure Security Operations Analyst (Sc-200)**, **AWS Security Specialty** (working towards **CySA+**)
 
 📖 **Current Learning Focus:**
 - **Detection Engineering** with Sigma and YARA rules
