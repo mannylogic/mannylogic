@@ -14,7 +14,7 @@
 
 # 🛡️ SOC Analyst Portfolio
 
-Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passionate about **cybersecurity, threat detection, and incident response**. Here, you'll find my projects, scripts, and resources related to **SIEM, threat hunting, and Cloud Security**. 
+I'm a **Security Operations Center (SOC) Analyst** passionate about **cybersecurity, threat detection, and incident response**. Here, you'll find my projects, scripts, and resources related to **SIEM, threat hunting, and Cloud Security**. 
 
 ## 📌 About Me
 - 👨‍💻 SOC Analyst, actively building hands-on experience in **threat intelligence, log analysis, and incident handling**.
@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 - 🛠 Developing skills in **SIEM (Splunk, ELK, Microsoft Sentinel), IDS/IPS, and EDR solutions**.
 - 📊 Developing solutions to analyze **attack patterns (MITRE ATT&CK), malware, and vulnerabilities**.
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 1️⃣ **AWS IAM detection & Automation**
 🔍 Detects and automatically responds to suspicious IAM activity in AWS.
