@@ -24,20 +24,16 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 
 ## 📂 Featured Projects
 
-### 1️⃣ **Threat Hunting with Splunk**
-🔍 A collection of **Splunk queries (SPL)** to detect common attack techniques.
-- **Focus Areas:** Malware detection, suspicious PowerShell activity, privilege escalation.
-- **Repo:** [Splunk-Threat-Hunting](#)
+### 1️⃣ **AWS IAM detection & Automation**
+🔍 Detects and automatically responds to suspicious IAM activity in AWS.
+- **Focus Areas:** Amazon GuardDuty, EventBridge, SNS, S3, and Lambda.
+- **Repo:** [mannylogic/awsiam](#)
 
-### 2️⃣ **Automated Malware Analysis Sandbox**
-🦠 A Python-based sandbox for analyzing malware behavior.
-- **Features:** API integration, dynamic analysis, and reporting.
-- **Repo:** [Malware-Sandbox](#)
+### 2️⃣ **SDN IDPS against DDoS attacks**
+🦠 A research work implementing an IDPS against SYN Flood, Port Scanning, and ICMP Flood attacks in SDN controllers
+- **Features:** Nested Virtualization, IDPS scripts, POX, RYU, vSwitch, CB-RTW
+- **Repo:** [mannylogic/SDN_IDPS](#)
 
-### 3️⃣ **SOC Automation with Python**
-🤖 Automating repetitive SOC tasks using Python scripts.
-- **Includes:** Log parsing, alert enrichment, and API integrations with security tools.
-- **Repo:** [SOC-Automation](#)
 
 ## 🛠️ Tools & Technologies
 - **SIEM**: Splunk, Microsoft Sentinel
@@ -57,7 +53,7 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 - **OSINT Techniques** for cyber investigations
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/yourprofile](#)
+- **LinkedIn:** [linkedin.com/in/orjiemmanuelchijindu](#)
 
 
 👨‍💻 Always open to discussions on cybersecurity, threat hunting, and automation!
