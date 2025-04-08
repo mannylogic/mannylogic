@@ -27,12 +27,12 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 ### 1️⃣ **AWS IAM detection & Automation**
 🔍 Detects and automatically responds to suspicious IAM activity in AWS.
 - **Focus Areas:** Amazon GuardDuty, EventBridge, SNS, S3, and Lambda.
-- **Repo:** [mannylogic/awsiam](#)
+- **Repo:** [Link](github.com/mannylogic/awsiam)
 
 ### 2️⃣ **SDN IDPS against DDoS attacks**
 🦠 A research work implementing an IDPS against SYN Flood, Port Scanning, and ICMP Flood attacks in SDN controllers
 - **Features:** Nested Virtualization, IDPS scripts, POX, RYU, vSwitch, CB-RTW
-- **Repo:** [mannylogic/SDN_IDPS](#)
+- **Repo:** [Link](github.com/mannylogic/SDN_IDPS)
 
 
 ## 🛠️ Tools & Technologies
@@ -53,7 +53,8 @@ Welcome to my GitHub! I'm a **Security Operations Center (SOC) Analyst** passion
 - **OSINT Techniques** for cyber investigations
 
 ## 📬 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/orjiemmanuelchijindu](#)
+- **LinkedIn:** [Follow on LinkedIn](www.linkedin.com/in/
+orjiemmanuelchijindu)
 
 
 👨‍💻 Always open to discussions on cybersecurity, threat hunting, and automation!
