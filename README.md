@@ -56,7 +56,7 @@ I'm currently working on:
   - EDR/IDS: **CrowdStrike, Suricata**
   - Cloud: **AWS (GuardDuty, Lambda, IAM), Azure**
   - Security Frameworks: **MITRE ATT&CK, CIS Controls**
-  - **CompTIA Security+**, **Azure Security Operations Analyst (Sc-200)**, **AWS Security Specialty** (working towards **CySA+**)
+  - **CompTIA Security+**, **Azure Security Operations Analyst (Sc-200)**, CCNA, **AWS Security Specialty** (working towards **CySA+**)
 
 📖 **Current Learning Focus:**
 - **Detection Engineering** with Sigma and YARA rules
