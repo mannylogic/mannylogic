@@ -39,6 +39,12 @@ I'm currently working on:
 - **Features:** Nested Virtualization, IDPS scripts, POX, RYU, vSwitch, CB-RTW
 - **Repo:** [Link](https://github.com/mannylogic/SDN_IDPS)
 
+### 3️⃣ **Incident Response Plan for YULG**  
+🛡️ A real-world-inspired **forensic response strategy** developed for a simulated malware outbreak within a fictional organization.  
+- Pre-incident planning for forensic readiness, Response to malware incident, Balance between recovery and investigation
+- Referenced ISO and NIST frameworks for alignment
+- **Repo:** [Link](https://github.com/mannylogic/csirt)
+
 
 ## 🛠️ Tools & Technologies
 - **SIEM**: Splunk, Microsoft Sentinel
