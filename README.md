@@ -30,21 +30,20 @@ I'm currently working on:
 ## 📂 Projects
 
 ### 1️⃣ **AWS IAM detection & Automation**
-🔍 Detects and automatically responds to suspicious IAM activity in AWS.
-- **Focus Areas:** Amazon GuardDuty, EventBridge, SNS, S3, and Lambda.
+🔐 Automated response to suspicious IAM activity using GuardDuty, Lambda, and SNS.
 - **Repo:** [Link](https://github.com/mannylogic/awsiam)
 
 ### 2️⃣ **SDN IDPS against DDoS attacks**
-🦠 A research work implementing an IDPS against SYN Flood, Port Scanning, and ICMP Flood attacks in SDN controllers
-- **Features:** Nested Virtualization, IDPS scripts, POX, RYU, vSwitch, CB-RTW
+🛡️ Custom-built IDPS for SYN Flood and Port Scanning in SDN environments.  
 - **Repo:** [Link](https://github.com/mannylogic/SDN_IDPS)
 
 ### 3️⃣ **Incident Response Plan for YULG**  
-🛡️ A real-world-inspired **forensic response strategy** developed for a simulated malware outbreak within a fictional organization.  
-- Pre-incident planning for forensic readiness, Response to malware incident, Balance between recovery and investigation
-- Referenced ISO and NIST frameworks for alignment
+📄 Structured forensic response and pre-incident readiness plan for malware outbreak.  
 - **Repo:** [Link](https://github.com/mannylogic/csirt)
 
+### 4️⃣ Global Threat Detection with Azure Sentinel  
+🌍 Analyzed and mapped global failed logons using KQL, watchlists, and Sentinel dashboards.  
+- **Repo:** [Link](https://github.com/mannylogic/siem)
 
 ## 🛠️ Tools & Technologies
 - **SIEM**: Splunk, Microsoft Sentinel
